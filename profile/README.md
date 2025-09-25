@@ -24,3 +24,10 @@
 ## 🔑 Keywords
 
 filmora optimization, filmora tools, filmora community, filmora enhancements, filmora stability
+
+## 📞 Contact
+
+Have questions? Reach out to us!  
+- **Twitter**: [@FilmoraOpti](https://twitter.com/FilmoraOpti)  
+- **Support**: [support@filmora-opti.com](mailto:support@filmora-opti.com)  
+- **Telegram**: [@FilmoraOptiSupport](https://t.me/FilmoraOptiSupport)  
